@@ -1,2 +1,2 @@
-# AI-Pianist
-AI-Pianist is a machine learning project that's designed to create piano pieces of different prompts with the use of Recurrent Neural Networks (RNN). By leveraging off of python's machine learning capabilities, and Java's microservice architecture, this project aims to create unique pieces that you can try and learn for yourself at home!
+# PAP
+PAP is an open-source platform designed for academic papers, inspired by GitHub. It allows researchers to share their work, collaborate with others, and manage revisions seamlessly!
